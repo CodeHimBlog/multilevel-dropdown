@@ -33,3 +33,7 @@ offCanvasWidth: 290, //the width of drawer on mobile devices in pixels
 onOffCanvasOpen: function () {}, //your custom function to execute when menu open on mobile devices
 onOffCanvasClose: function () {}, //your custom function to execute when menu closed
 </pre>
+
+## Author
+Asif Mughal <br>
+URL: www.codehim.com 
