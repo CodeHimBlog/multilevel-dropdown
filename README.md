@@ -2,7 +2,7 @@
 CSS3 and jQuery Multilevel Dropdowns that Convert into Off Canvas Menu on Mobile devices. 
 
 ## Live Demo 
-[browse the live demo](https://codehimblog.github.io/multilevel-dropdown/)
+[browse the live demo](https://www.codehim.com/demo/multilevel-dropdown-menu/)
 
 ## Preview
 <img src="https://2.bp.blogspot.com/-40ggpRicT2w/XAZsa8Eei1I/AAAAAAAAB0s/_L5JSBIF58seALEvSR876SLX5lISSUsxgCLcBGAs/s320/codehim-dropdown.jpg">
